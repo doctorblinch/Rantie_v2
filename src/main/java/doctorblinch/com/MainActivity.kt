@@ -24,6 +24,7 @@ class MainActivity : AppCompatActivity() {
 
         button_next.setOnClickListener {
 
+
             var meter_cost = 0.0f
             try {
                 meter_cost = main_cost_meter.text.toString().toFloat()
