@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Rantie v2</string>
+    <string name="main_label">Анализ инвестиций</string>
+    <string name="main_cost_of_meter">Введите стоимость 1 кв метра</string>
+    <string name="main_cost_of_rent">Введите стоимость аренды 1 кв метра</string>
+    <string name="main_quantity_of_meters">Введите кол-во метров</string>
+    <string name="main_tax">Введите налог (в процентах)</string>
+    <string name="main_delay">Введите отсрочку (в месяцах)</string>
+    <string name="main_next_button">Далее</string>
+</resources>
